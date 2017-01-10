@@ -1,0 +1,6 @@
+framework module Pods_Authorize {
+  umbrella header "Pods-Authorize-umbrella.h"
+
+  export *
+  module * { export * }
+}
